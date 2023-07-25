@@ -6,3 +6,5 @@ This repository is built step by step in the tutorial.
 
 This string was edit on GitHub
 Second edit.
+
+Строка добавленая на локальном.
